@@ -1,0 +1,15 @@
+{
+  "name": "multiplicar",
+  "version": "1.0.0",
+  "description": "------------------",
+  "main": "Multiplicar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CS Devp",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^14.0.0"
+  },
+  "devDependencies": {}
+}
